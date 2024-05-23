@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.DogruOranti-MEB - Doğru Orantı-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/31-Doğru Orantı.loader.js",
+    "Build/31-Doğru Orantı.framework.js",
+    "Build/31-Doğru Orantı.data",
+    "Build/31-Doğru Orantı.wasm",
     "TemplateData/style.css"
 
 ];
